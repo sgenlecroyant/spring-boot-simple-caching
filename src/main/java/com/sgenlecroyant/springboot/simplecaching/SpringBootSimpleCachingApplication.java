@@ -13,6 +13,7 @@ public class SpringBootSimpleCachingApplication {
 		SpringApplication.run(SpringBootSimpleCachingApplication.class, args);
 		
 		logger.info("Spring Boot Simple Caching Up and Running");
+		System.out.println("Updating ...");
 	
 	}
 
